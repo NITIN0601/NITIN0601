@@ -9,6 +9,8 @@
  
  ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITIN0601&theme=dark&show_icons=true)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITIN0601&layout=pie)](https://github.com/NITIN0601/github-readme-stats)
+ 
 <!--
 **NITIN0601/NITIN0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
