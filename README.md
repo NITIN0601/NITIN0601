@@ -5,6 +5,8 @@
  🌱 I’m currently learning AWS
  
  📫 How to reach me: dmnitin97+grad@gmail.com
+
+ ![Certifications](https://github.com/NITIN0601/Certifications)
  
  
  ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITIN0601&theme=dark&show_icons=true)
