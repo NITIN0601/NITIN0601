@@ -7,7 +7,7 @@
  📫 How to reach me: dmnitin97+grad@gmail.com
 
  ✨ Certification : ![Certifications](https://github.com/NITIN0601/Certifications)
-[Data](https://github-readme-stats.vercel.app/api/top-langs/?username=NITIN0601&layout=pie&theme=dark&show_icons=true)](https://github.com/NITIN0601/Certifications)
+![Data](https://github-readme-stats.vercel.app/api/top-langs/?username=NITIN0601&layout=pie&theme=dark&show_icons=true)](https://github.com/NITIN0601/Certifications)
 
  
  
