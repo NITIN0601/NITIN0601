@@ -1,8 +1,11 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on Data Engineering Projects, Machine Learning Projects.
- 
- 🌱 I’m currently learning AWS
+- 🔭 I’m currently working on **Data Streaming and Processing with Spark, Kafka and Hadoop**
+
+- 🌱 I’m currently learning **Data Science, Azure, AWS, Deep Learning and Concurrent Programming**
+
+- 🫱🏻‍🫲🏼 I’m looking for help with **Big Data Programming and MLOps**
+
  
  📫 How to reach me: dmnitin97+grad@gmail.com
 
