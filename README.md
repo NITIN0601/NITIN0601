@@ -13,6 +13,7 @@
  
  
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NITIN0601&show_icons=true&locale=en&layout=compact" alt="NITIN0601" />
 
 ## 🔥 My Github stats
 
