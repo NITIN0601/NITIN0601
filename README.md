@@ -21,6 +21,7 @@
 ![Software Development](https://img.shields.io/badge/Software%20Development-%2314354C.svg?style=for-the-badge&logoColor=white) 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
 ![UI/UX](https://img.shields.io/badge/UI/UX-%2314354C.svg?style=for-the-badge&logoColor=white) 
+![AI Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
 
 **Language**
 
