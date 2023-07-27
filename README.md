@@ -13,6 +13,21 @@
  
  
  ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NITIN0601&theme=dark&show_icons=true)
+
+## 🔥 My github stats
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=NITIN0601&show_icons=true&theme=light"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=NITIN0601&show_icons=true&theme=light"
+  media="(prefers-color-scheme: light)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=NITIN0601&show_icons=true" />
+</picture>
+ 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITIN0601&layout=pie&theme=dark&show_icons=true)](https://github.com/NITIN0601)
 
