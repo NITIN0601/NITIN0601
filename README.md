@@ -12,7 +12,7 @@
  
  📫 How to reach me: dmnitin97+grad@gmail.com
 
- ✨ Certification : ![Certificates](https://github.com/NITIN0601/Certifications)
+ ✨ Certification : https://github.com/NITIN0601/Certifications
  
  ✨ Badges : https://www.credly.com/users/nitin-dunday-mohan/badges
 
