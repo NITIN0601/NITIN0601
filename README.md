@@ -1,9 +1,10 @@
-### Hi, 👋 I'm Nitin 
+### Hi, 👋 I'm Nitin, DataScientist @ United Nations
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NITIN0601&show_icons=true&locale=en&layout=compact" alt="NITIN0601" />
 
+- 🔭 I’m currently working on **GenAI, RAG, AI Agents, CopilotStudio**
 
-- 🔭 I’m currently working on **Data Streaming and Processing with Spark, Kafka and Hadoop**
+- 🔭 I’m currently exploring on **Data Streaming and Processing with Spark, Kafka and Hadoop**
 
 - 🌱 I’m currently learning **Data Science, Azure, AWS, Deep Learning and Concurrent Programming**
 
